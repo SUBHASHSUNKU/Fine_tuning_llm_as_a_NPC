@@ -1,5 +1,6 @@
 # Fine_tuning_llm_as_a_NPC
-In this we get to fine tune our LLM so that it acts as a NPC like some alien from mars by using hugging face dataset.
+Built an AI-powered Martian NPC that learns from player–character conversations and generates interactive responses.
+The project simulates how non-player characters can engage in natural dialogue within games.
 # Fine-Tuning Gemma 3 (270M) with Unsloth
 
 This project demonstrates how to fine-tune Google's Gemma 3 270M Instruct model using LoRA (PEFT) with the Unsloth framework. The model is trained on a conversational NPC dataset and can generate responses in a chat format.
